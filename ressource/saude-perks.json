@@ -1,0 +1,182 @@
+{
+    "Nivel1": [
+        {
+            "id": "0",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/spell_animabastion_buff.jpg",
+            "description": "",
+            "level": 1,
+            "show": true
+        },
+        {
+            "id": "1",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/spell_holy_powerinfusion.jpg",
+            "description": "",
+            "level": 1,
+            "show": false
+        },
+        {
+            "id": "2",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/spell_animarevendreth_orb.jpg",
+            "description": "",
+            "level": 1,
+            "show": true
+        },
+        {
+            "id": "3",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/spell_burningsoul.jpg",
+            "description": "",
+            "level": 1,
+            "show": true
+        }
+    ],
+    "Nivel3": [
+        {
+            "id": "0",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/achievement_reputation_05.jpg",
+            "description": "",
+            "level": 1,
+            "show": true
+        },
+        {
+            "id": "1",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/sanctum_features_buildabom.jpg",
+            "description": "",
+            "level": 1,
+            "show": true
+        },
+        {
+            "id": "2",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/spell_holy_auramastery.jpg",
+            "description": "",
+            "level": 1,
+            "show": true
+        },
+        {
+            "id": "3",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/sanctum_features_buildabom.jpg",
+            "description": "",
+            "level": 1,
+            "show": false
+        }
+    ],
+    "Nivel6": [
+        {
+            "id": "0",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/spell_animabastion_buff.jpg",
+            "description": "",
+            "level": 1,
+            "show": false
+        },
+        {
+            "id": "1",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/spell_animabastion_buff.jpg",
+            "description": "",
+            "level": 1,
+            "show": false
+        },
+        {
+            "id": "2",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/spell_animabastion_buff.jpg",
+            "description": "",
+            "level": 1,
+            "show": false
+        },
+        {
+            "id": "3",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/spell_animabastion_buff.jpg",
+            "description": "",
+            "level": 1,
+            "show": false
+        }
+    ],
+    "Nivel9": [
+        {
+            "id": "0",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/spell_animabastion_buff.jpg",
+            "description": "",
+            "level": 1,
+            "show": false
+        },
+        {
+            "id": "1",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/spell_animabastion_buff.jpg",
+            "description": "",
+            "level": 1,
+            "show": false
+        },
+        {
+            "id": "2",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/spell_animabastion_buff.jpg",
+            "description": "",
+            "level": 1,
+            "show": false
+        },
+        {
+            "id": "3",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/spell_animabastion_buff.jpg",
+            "description": "",
+            "level": 1,
+            "show": false
+        }
+    ],
+    "Nivel12": [
+        {
+            "id": "0",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/spell_animabastion_buff.jpg",
+            "description": "",
+            "level": 1,
+            "show": false
+        },
+        {
+            "id": "1",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/spell_animabastion_buff.jpg",
+            "description": "",
+            "level": 1,
+            "show": false
+        },
+        {
+            "id": "2",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/spell_animabastion_buff.jpg",
+            "description": "",
+            "level": 1,
+            "show": false
+        },
+        {
+            "id": "3",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/spell_animabastion_buff.jpg",
+            "description": "",
+            "level": 1,
+            "show": false
+        }
+    ],
+    "Nivel16": [
+        {
+            "id": "0",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/spell_animabastion_buff.jpg",
+            "description": "",
+            "level": 1,
+            "show": false
+        },
+        {
+            "id": "1",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/spell_animabastion_buff.jpg",
+            "description": "",
+            "level": 1,
+            "show": false
+        },
+        {
+            "id": "2",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/spell_animabastion_buff.jpg",
+            "description": "",
+            "level": 1,
+            "show": false
+        },
+        {
+            "id": "3",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/spell_animabastion_buff.jpg",
+            "description": "",
+            "level": 1,
+            "show": false
+        }
+    ]
+}

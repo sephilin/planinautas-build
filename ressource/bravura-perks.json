@@ -1,0 +1,182 @@
+{
+    "Nivel1": [
+        {
+            "id": "0",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/ability_warrior_battleshout.jpg",
+            "description": "",
+            "level": 1,
+            "show": false
+        },
+        {
+            "id": "1",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_shoulder_22.jpg",
+            "description": "",
+            "level": 1,
+            "show": true
+        },
+        {
+            "id": "2",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/ability_revendreth_priest.jpg",
+            "description": "",
+            "level": 1,
+            "show": true
+        },
+        {
+            "id": "3",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/ability_warrior_rampage.jpg",
+            "description": "",
+            "level": 1,
+            "show": true
+        }
+    ],
+    "Nivel3": [
+        {
+            "id": "0",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/achievement_featsofstrength_gladiator_09.jpg",
+            "description": "",
+            "level": 1,
+            "show": true
+        },
+        {
+            "id": "1",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/spell_fire_incinerate.jpg",
+            "description": "",
+            "level": 1,
+            "show": true
+        },
+        {
+            "id": "2",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/spell_shadow_unstableaffliction_3.jpg",
+            "description": "",
+            "level": 1,
+            "show": true
+        },
+        {
+            "id": "3",
+            "icon": "",
+            "description": "",
+            "level": 1,
+            "show": false
+        }
+    ],
+    "Nivel6": [
+        {
+            "id": "0",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/ability_warrior_battleshout.jpg",
+            "description": "",
+            "level": 1,
+            "show": false
+        },
+        {
+            "id": "1",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/ability_warrior_battleshout.jpg",
+            "description": "",
+            "level": 1,
+            "show": false
+        },
+        {
+            "id": "2",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/ability_warrior_battleshout.jpg",
+            "description": "",
+            "level": 1,
+            "show": false
+        },
+        {
+            "id": "3",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/ability_warrior_battleshout.jpg",
+            "description": "",
+            "level": 1,
+            "show": false
+        }
+    ],
+    "Nivel9": [
+        {
+            "id": "0",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/ability_warrior_battleshout.jpg",
+            "description": "",
+            "level": 1,
+            "show": false
+        },
+        {
+            "id": "1",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/ability_warrior_battleshout.jpg",
+            "description": "",
+            "level": 1,
+            "show": false
+        },
+        {
+            "id": "2",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/ability_warrior_battleshout.jpg",
+            "description": "",
+            "level": 1,
+            "show": false
+        },
+        {
+            "id": "3",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/ability_warrior_battleshout.jpg",
+            "description": "",
+            "level": 1,
+            "show": false
+        }
+    ],
+    "Nivel12": [
+        {
+            "id": "0",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/ability_warrior_battleshout.jpg",
+            "description": "",
+            "level": 1,
+            "show": false
+        },
+        {
+            "id": "1",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/ability_warrior_battleshout.jpg",
+            "description": "",
+            "level": 1,
+            "show": false
+        },
+        {
+            "id": "2",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/ability_warrior_battleshout.jpg",
+            "description": "",
+            "level": 1,
+            "show": false
+        },
+        {
+            "id": "3",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/ability_warrior_battleshout.jpg",
+            "description": "",
+            "level": 1,
+            "show": false
+        }
+    ],
+    "Nivel16": [
+           {
+            "id": "0",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/ability_warrior_battleshout.jpg",
+            "description": "",
+            "level": 1,
+            "show": false
+        },
+        {
+            "id": "1",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/ability_warrior_battleshout.jpg",
+            "description": "",
+            "level": 1,
+            "show": false
+        },
+        {
+            "id": "2",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/ability_warrior_battleshout.jpg",
+            "description": "",
+            "level": 1,
+            "show": false
+        },
+        {
+            "id": "3",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/ability_warrior_battleshout.jpg",
+            "description": "",
+            "level": 1,
+            "show": false
+        }
+    ]
+}

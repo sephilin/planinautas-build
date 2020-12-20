@@ -1,0 +1,182 @@
+{
+    "Nivel1": [
+        {
+            "id": "0",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_archaeology_70_spiritofechero.jpg",
+            "description": "",
+            "level": 1,
+            "show": true
+        },
+        {
+            "id": "1",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_trinket_80_titan02a.jpg",
+            "description": "",
+            "level": 1,
+            "show": true
+        },
+        {
+            "id": "2",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_jewelry_talisman_08.jpg",
+            "description": "",
+            "level": 1,
+            "show": true
+        },
+        {
+            "id": "3",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/achievement_challengemode_gold.jpg",
+            "description": "",
+            "level": 1,
+            "show": false
+        }
+    ],
+    "Nivel3": [
+        {
+            "id": "0",
+            "icon": "",
+            "description": "",
+            "level": 3,
+            "show": false
+        },
+        {
+            "id": "1",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/ability_kyrian_summonsteward.jpg",
+            "description": "",
+            "level": 3,
+            "show": true
+        },
+        {
+            "id": "2",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_7_0raid_necklace_03a.jpg",
+            "description": "",
+            "level": 1,
+            "show": true
+        },
+        {
+            "id": "3",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/achievement_challengemode_gold.jpg",
+            "description": "",
+            "level": 3,
+            "show": true
+        }
+    ],
+    "Nivel6": [
+        {
+            "id": "0",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_archaeology_70_spiritofechero.jpg",
+            "description": "",
+            "level": 3,
+            "show": false
+        },
+        {
+            "id": "1",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_trinket_80_titan02a.jpg",
+            "description": "",
+            "level": 3,
+            "show": false
+        },
+        {
+            "id": "2",
+            "icon": "",
+            "description": "",
+            "level": 1,
+            "show": false
+        },
+        {
+            "id": "3",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/achievement_challengemode_gold.jpg",
+            "description": "",
+            "level": 3,
+            "show": false
+        }
+    ],
+    "Nivel9": [
+        {
+            "id": "0",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_archaeology_70_spiritofechero.jpg",
+            "description": "",
+            "level": 3,
+            "show": false
+        },
+        {
+            "id": "1",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_trinket_80_titan02a.jpg",
+            "description": "",
+            "level": 3,
+            "show": false
+        },
+        {
+            "id": "2",
+            "icon": "",
+            "description": "",
+            "level": 1,
+            "show": false
+        },
+        {
+            "id": "3",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/achievement_challengemode_gold.jpg",
+            "description": "",
+            "level": 3,
+            "show": false
+        }
+    ],
+    "Nivel12": [
+        {
+            "id": "0",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_archaeology_70_spiritofechero.jpg",
+            "description": "",
+            "level": 3,
+            "show": false
+        },
+        {
+            "id": "1",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_trinket_80_titan02a.jpg",
+            "description": "",
+            "level": 3,
+            "show": false
+        },
+        {
+            "id": "2",
+            "icon": "",
+            "description": "",
+            "level": 1,
+            "show": false
+        },
+        {
+            "id": "3",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/achievement_challengemode_gold.jpg",
+            "description": "",
+            "level": 3,
+            "show": false
+        }
+    ],
+    "Nivel16": [
+        {
+            "id": "0",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_archaeology_70_spiritofechero.jpg",
+            "description": "",
+            "level": 3,
+            "show": false
+        },
+        {
+            "id": "1",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_trinket_80_titan02a.jpg",
+            "description": "",
+            "level": 3,
+            "show": false
+        },
+        {
+            "id": "2",
+            "icon": "",
+            "description": "",
+            "level": 1,
+            "show": false
+        },
+        {
+            "id": "3",
+            "icon": "https://wow.zamimg.com/images/wow/icons/large/achievement_challengemode_gold.jpg",
+            "description": "",
+            "level": 3,
+            "show": false
+        }
+    ]
+}
